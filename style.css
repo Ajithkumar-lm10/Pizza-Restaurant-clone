@@ -1,4 +1,4 @@
-/* //      B O D Y      // */
+/* ///      B O D Y      /// */
 
 * {
     margin: 0;
@@ -130,7 +130,6 @@ nav>div>li {
     letter-spacing: 0.1em;
     font-weight: bold;
     border-top: 7px solid #F24C4C;
-    /* box-shadow: 3px 6px 18px rgba(0, 0, 0, 0.25); */
 }
 
 /* //      S E C T I O N -1     // */
