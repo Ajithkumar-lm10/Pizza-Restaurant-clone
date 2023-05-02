@@ -353,6 +353,11 @@ footer {
 
 @media screen and (max-width: 601px) {
 
+    .image>img {
+        width: 100%;
+        margin-top: 70px;
+        object-fit: cover;
+    }
 
     .items-right>h3 {
         /* color: #F2C94C; */
@@ -362,8 +367,6 @@ footer {
     .image {
         display: flex;
     }
-
-
 
     nav {
         padding: 20px 10px;
