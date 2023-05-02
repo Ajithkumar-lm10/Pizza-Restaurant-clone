@@ -99,6 +99,7 @@ nav>div>li {
 .image>img {
     width: 100%;
     position: relative;
+    object-fit: cover;
 }
 
 .cravings {
@@ -322,6 +323,7 @@ footer {
         padding: 0 10px;
     }
 
+
 }
 
 @media screen and (max-width: 714px) {
@@ -344,6 +346,10 @@ footer {
         display: none;
     }
 
+    .sect-1-child>p {
+        border-top: none;
+    }
+  
 }
 
 @media screen and (max-width: 601px) {
